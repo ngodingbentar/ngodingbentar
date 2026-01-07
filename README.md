@@ -43,16 +43,13 @@
 ### Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngodingbentar&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ngodingbentar&layout=compact&theme=dark" alt="Top Langs" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngodingbentar&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ngodingbentar&show_icons=true&theme=dark" alt="Stats" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ngodingbentar&show_icons=true&theme=dark" alt="Stats" />
-</p>
 
 <br />
 
