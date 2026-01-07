@@ -43,12 +43,12 @@
 ### Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngodingbentar&layout=compact&theme=dark" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ngodingbentar&show_icons=true&theme=dark" alt="Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ngodingbentar&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ngodingbentar&show_icons=true&theme=dark" alt="Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ngodingbentar&theme=dark&layout=compact" alt="Wakatime" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=ngodingbentar&theme=dark&layout=compact" alt="Wakatime" />
 </p>
 
 <br />
