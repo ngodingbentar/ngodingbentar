@@ -1,13 +1,13 @@
 # Hi there, I'm Dewa Qintoro <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 
-<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
+<!-- <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" /> -->
 
 
 ## I'm a Front-End Developer!!
 
-- 💻 Coding everyday 👽
 - 📍 Indonesia
+- 💻 Coding everyday
 - 💼 Open to opportunities
 
 
@@ -40,15 +40,17 @@
 
 ---
 
-### Stats
+<!-- ### Stats
 
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ngodingbentar&layout=compact&theme=dark" alt="Top Langs" />
 </p>
 
+
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ngodingbentar&show_icons=true&theme=dark" alt="Stats" />
-</p>
+</p> -->
+
 
 
 <br />
